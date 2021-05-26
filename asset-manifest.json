@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolioV2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/ReactPortfolioV2/static/js/main.f518b93c.chunk.js",
+    "main.js.map": "/ReactPortfolioV2/static/js/main.f518b93c.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolioV2/static/js/runtime-main.d75416e7.js",
+    "runtime-main.js.map": "/ReactPortfolioV2/static/js/runtime-main.d75416e7.js.map",
+    "static/js/2.11e5c120.chunk.js": "/ReactPortfolioV2/static/js/2.11e5c120.chunk.js",
+    "static/js/2.11e5c120.chunk.js.map": "/ReactPortfolioV2/static/js/2.11e5c120.chunk.js.map",
+    "static/js/3.cd4aab26.chunk.js": "/ReactPortfolioV2/static/js/3.cd4aab26.chunk.js",
+    "static/js/3.cd4aab26.chunk.js.map": "/ReactPortfolioV2/static/js/3.cd4aab26.chunk.js.map",
+    "index.html": "/ReactPortfolioV2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/ReactPortfolioV2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.11e5c120.chunk.js.LICENSE.txt": "/ReactPortfolioV2/static/js/2.11e5c120.chunk.js.LICENSE.txt",
+    "static/media/codingquiz.be005b59.png": "/ReactPortfolioV2/static/media/codingquiz.be005b59.png",
+    "static/media/logo.6ce24c58.svg": "/ReactPortfolioV2/static/media/logo.6ce24c58.svg",
+    "static/media/projectone.7684d72d.png": "/ReactPortfolioV2/static/media/projectone.7684d72d.png",
+    "static/media/weatherdashboard.d400bf64.png": "/ReactPortfolioV2/static/media/weatherdashboard.d400bf64.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d75416e7.js",
+    "static/js/2.11e5c120.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.f518b93c.chunk.js"
+  ]
+}
